@@ -1,0 +1,130 @@
+{
+    "name": "Spicy spinach chicken macaroni",
+    "operation": "plate",
+    "ingredients": [
+        {
+            "name": "boiled macaroni",
+            "operation": "boil",
+            "ingredients": [
+                {
+                    "name": "macaroni",
+                    "amount": 3,
+                    "unit": "cup"
+                },
+                {
+                    "name": "water",
+                    "amount": 5,
+                    "unit": "cup"
+                }
+            ]
+        },
+        {
+            "name": "fried chicken",
+            "operation": "fry",
+            "ingredients": [
+                {
+                    "name": "marinated chicken",
+                    "operation": "marinate",
+                    "ingredients": [
+                        {
+                            "name": "breaded chicken",
+                            "amount": 1,
+                            "unit": "cup"
+                        },
+                        {
+                            "name": "cottage cheese",
+                            "amount": 1,
+                            "unit": "cup"
+                        },
+                        {
+                            "name": "red chilli powder",
+                            "amount": 0.5,
+                            "unit": "teaspoon"
+                        },
+                        {
+                            "name": "oil",
+                            "amount": 1,
+                            "unit": "touch"
+                        },
+                        {
+                            "name": "salt",
+                            "amount": 0.5,
+                            "unit": "teaspoon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "fried mushroom",
+            "operation": "fry",
+            "ingredients": [
+                {
+                    "name": "marinated mushroom",
+                    "operation": "marinate",
+                    "ingredients": [
+                        {
+                            "name": "pepper powder",
+                            "amount": 0.5,
+                            "unit": "teaspoon"
+                        },
+                        {
+                            "name": "oil",
+                            "amount": 1,
+                            "unit": "touch"
+                        },
+                        {
+                            "name": "salt",
+                            "amount": 0.5,
+                            "unit": "teaspoon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "veggies",
+            "operation": "saute",
+            "ingredients": [
+                {
+                    "name": "chopped onion",
+                    "operation": "chop",
+                    "ingredients": [
+                        {
+                            "name": "onion",
+                            "amount": 1,
+                            "unit": "item"
+                        }
+                    ]
+                },
+                {
+                    "name": "crushed garlic",
+                    "operation": "mince",
+                    "ingredients": [
+                        {
+                            "name": "garlic",
+                            "amount": 5,
+                            "unit": "clove"
+                        }
+                    ]
+                },
+                {
+                    "name": "chopped tomato",
+                    "operation": "chop",
+                    "ingredients": [
+                        {
+                            "name": "tomato",
+                            "amount": 1,
+                            "unit": "item"
+                        }
+                    ]
+                },
+                {
+                    "name": "spinach",
+                    "amount": 2,
+                    "unit": "cups"
+                }
+            ]
+        }
+    ]
+}
