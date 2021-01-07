@@ -1,0 +1,21 @@
+# chemical changes
+boil<temp, duration>
+fry<temp, duration>
+bake<temp, duration>
+broil<temp, duration>
+slow-cook<temp, duration>
+deep-fry<temp, duration>
+pressure-cook<temp, duration>
+stir-fry<temp, duration>
+
+# physical changes
+mix<end>
+whip<end>
+
+dice
+slice<size>
+mince
+crush
+
+plate
+
