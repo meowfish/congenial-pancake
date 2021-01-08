@@ -1,0 +1,59 @@
+{
+    "name" : "Garlic herb grilled salmon",
+    "operation" : "plate",
+    "ingredient" : [
+        {
+            "name" : "Salmon filet",
+            "operation" : "marinate",
+            "ingredient" : [
+                {
+                    "name" : "Olive oil",
+                    "amount" : 2,
+                    "unit" : "tablespoon"
+                },
+                {
+                    "name" : "Minced garlic",
+                    "operation" : "mince",
+                    "ingredient": {
+                        "name" : "garlic",
+                        "amount" : 2,
+                        "unit" : "clove"
+                    }
+                },
+                {
+                    "name" : "basil",
+                    "operation" : "chop",
+                    "ingredient" : {
+                        "name" : "basil",
+                        "amount" : 1,
+                        "unit" : "teaspoon"
+                    }
+                },
+                {
+                    "name" : "Chopped fresh parsley leaves",
+                    "operation" : "chop",
+                    "ingredient" : {
+                        "name" : "fresh parsley leaves",
+                        "amount" : 1,
+                        "unit" : "tablespoon"
+                    }
+                },
+                {
+                    "name" : "Lemon juice",
+                    "amount" : 1,
+                    "unit" : "tablespoon"
+                },
+                {
+                    "name" : "Salt",
+                    "amount" : 0.5,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Pepper",
+                    "amount" : 3,
+                    "unit" : "dashes"
+                }
+            ]
+        }
+    ]
+}

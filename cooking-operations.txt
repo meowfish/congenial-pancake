@@ -8,15 +8,22 @@ deep-fry<temp, duration>
 pressure-cook<temp, duration>
 stir-fry<temp, duration>
 sautee<temp, duration>
+refridgerate<duration>
+grilled<duration>
+baste
+
 
 # physical changes
 mix<end>
 whip<end>
 
+squeeze
 dice
 slice<size>
 mince
 crush
 
+marinate<duration>
+seasoning
 plate
 

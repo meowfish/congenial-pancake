@@ -1,0 +1,83 @@
+{
+    "name" : "Pan seared garlic butter steak",
+    "operation" : "plate",
+    "Ingredients" :[
+        {
+            "name" : "Ribeye steak",
+            "operation" : "seasoning",
+            "Ingredient" :[
+                {
+                    "name" : "Salt",
+                    "amount" : "whole steak",
+                    "unit" : "depend"
+                },
+                {
+                    "name" : "Pepper",
+                    "amount" : "whole steak",
+                    "unit" : "depend"
+                }
+            ]
+        },
+        {
+            "name" : "Garlic butter",
+            "Operation" : "Mix, refridgerate",
+            "Ingredient" : [
+                {
+                    "name" : "Unsalted Butter",
+                    "amount" : 0.5,
+                    "unit" : "cups"
+                },
+                {
+                    "name" : "Chopped fresh parsley leaves",
+                    "operation" : "chop",
+                    "ingredient" : {
+                        "name" : "fresh parsley leaves",
+                        "amount" : 0.25,
+                        "unit" : "cups"
+                    }
+                },
+                {
+                    "name" : "Minced garlic",
+                    "operation" : "minced",
+                    "ingredient" : {
+                        "name" : "garlic",
+                        "amount" : 3,
+                        "unit" : "cloves"
+                    }
+                },
+                {
+                    "name" : "Lemon zest",
+                    "amount" : 1,
+                    "unit" : "unit"
+                },
+                {
+                    "name" : "thyme",
+                    "operation" : "chop",
+                    "ingredient" : {
+                        "name" : "thyme",
+                        "amount" : 1,
+                        "unit" : "teaspoon"
+                    }
+                },
+                {
+                    "name" : "rosemary",
+                    "operation" : "chop",
+                    "ingredient" : {
+                        "name" : "rosemary",
+                        "amount" : 1,
+                        "unit" : "teaspoon"
+                    }
+                },
+                {
+                    "name" : "basil",
+                    "operation" : "chop",
+                    "ingredient" : {
+                        "name" : "basil",
+                        "amount" : 1,
+                        "unit" : "teaspoon"
+                    }
+                }
+            ]
+        }
+    ]
+}
