@@ -1,0 +1,131 @@
+{
+    "name" : "Spaghetti with meat sauce",
+    "operation" : "plate",
+    "ingredient" : [
+        {
+            "name" : "Cooked spaghetti",
+            "operation" : "boil",
+            "duration" : 240,
+            "ingredient" : [
+                {
+                    "name" : "Rested dough",
+                    "operation" : "rest",
+                    "duration" : 2000,
+                    "ingredient" : [
+                        {
+                            "name" : "Fresh spaghetti dough",
+                            "operation" : "mix",
+                            "ingredient" : [
+                            {
+                                "name" : "Eggs",
+                                "amount" : 4,
+                                "unit" : "item"
+                            },
+                            {
+                                "name" : "Flour",
+                                "amount" : 2.5,
+                                "unit" : "cup"
+                            },
+                            {
+                                "name" : "Olive oil",
+                                "amount" : 1,
+                                "unit" : "tablespoon"
+                            },
+                            {
+                                "name" : "Sea salt",
+                                "amount" : 1,
+                                "unit" : "teaspoon"
+                            }   
+                            ]
+                        }   
+                    ]    
+                }
+            ]
+        },
+        {
+            "name" : "Meat sauce",
+            "operation" : "simmer",
+            "duration" : 3600,
+            "ingredient" : [
+                {
+                    "name" : "Meat and veggie",
+                    "operation" : "stir",
+                    "ingredient" : [
+                        {
+                            "name" : "Ground beef",
+                            "amount" : 1,
+                            "unit" : "pound"
+                        },
+                        {
+                            "name" : "Onion",
+                            "operation" : "chop",
+                            "ingredient" : {
+                                    "name" : "Chopped onion",
+                                    "amount" : 1,
+                                    "unit" : "item"
+                            }
+                        },
+                        {
+                            "name" : "Garlic",
+                            "operation" : "minced",
+                            "ingredient" : {
+                                    "name" : "Minced garlic",
+                                    "amount" : 4,
+                                    "unit" : "clove"
+                            }
+                        },
+                        {
+                            "name" : "Green bell pepper",
+                            "operation" : "diced",
+                            "ingredient" : {
+                                    "name" : "Diced green bell pepper",
+                                    "amount" : 1,
+                                    "unit" : "item"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name" : "seasoning",
+                    "operation" : "mix",
+                    "ingredient" : [
+                        {
+                            "name" : "Canned tomato",
+                            "operation" : "diced",
+                            "ingredient" : {
+                                    "name" : "Diced tomato",
+                                    "amount" : 28,
+                                    "unit" : "ounce"
+                            }
+                        },
+                        {
+                            "name" : "Tomato paste",   
+                            "amount" : 6,
+                            "unit" : "ounce"
+                        },
+                        {
+                            "name" : "Oregano",
+                            "amount" : 2,
+                            "unit" : "teaspoon"
+                        },
+                        {
+                            "name" : "Basil",
+                            "amount" : 2,
+                            "unit" : "teaspoon"
+                        },
+                        {
+                            "name" : "Salt",
+                            "amount" : 1,
+                            "unit" : "teaspoon"
+                        },
+                        {
+                            "name" : "Black pepper",
+                            "amount" : 0.5,
+                            "unit" : "teaspoon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

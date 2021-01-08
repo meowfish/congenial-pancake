@@ -1,0 +1,97 @@
+{
+    "name" : "Pepperoni pizza",
+    "operation" : "oven",
+    "duration" : 750,
+    "temperature" : 500,
+    "ingredient" : [
+        {
+            "name" : "Rested pizza dough",
+            "operation" : "rest",
+            "duration" : 2000,
+            "ingredient" : [
+                {
+                    "name" : "Pizza dough",
+                    "operation" : "mix",
+                    "ingredient" : [
+                        {
+                            "name" : "Warm water",
+                            "amount" : 1.33,
+                            "unit" : "cup"
+                        },
+                        {
+                            "name" : "Instant yeast",
+                            "amount" : 2.25,
+                            "unit" : "teaspoon"
+                        },
+                        {
+                            "name" : "Granulated sugar",
+                            "amount" : 1,
+                            "unit" : "tablespoon"
+                        },
+                        {
+                            "name" : "Olive oil",
+                            "amount" : 2,
+                            "unit" : "tablespoon"
+                        },
+                        {
+                            "name" : "Salt",
+                            "amount" : 0.75,
+                            "unit" : "teaspoon"
+                        },
+                        {
+                            "name" : "All purpose flour",
+                            "amount" : 3.5,
+                            "unit" : "cup"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "Pizza sauce",
+            "operation" : "mix",
+            "ingredient" : [
+                {
+                    "name" : "Tomato sauce",
+                    "amount" : 0.5,
+                    "unit" : "cup"
+                },
+                {
+                    "name" : "Salt",
+                    "amount" : 0.5,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Black pepper",
+                    "amount" : 0.5,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Granulated garlic",
+                    "amount" : 0.5,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Granulated onion",
+                    "amount" : 0.5,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Salt",
+                    "amount" : 1,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Red pepper flake",
+                    "amount" : 0.25,
+                    "unit" : "teaspoon"
+                },
+                {
+                    "name" : "Olive oil",
+                    "amount" : 1,
+                    "unit" : "teaspoon"
+                }
+            ]
+        }
+    ]
+}
