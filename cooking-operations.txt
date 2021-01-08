@@ -7,6 +7,7 @@ slow-cook<temp, duration>
 deep-fry<temp, duration>
 pressure-cook<temp, duration>
 stir-fry<temp, duration>
+sautee<temp, duration>
 
 # physical changes
 mix<end>

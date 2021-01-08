@@ -1,6 +1,5 @@
 # congenial-pancake
 
-- Uses Django
-- Elm front end
-- Cook book with a built in alarm clock that tracks how much time has passed for better user experience
+- This project is a cook book with a built in alarm clock to help the user follow the steps.
 - Users are able to customize and input in recipes of their own choice
+- Utilizes Django for the backend and Elm for the frontend
