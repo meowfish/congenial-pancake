@@ -5,6 +5,7 @@
         {
             "name": "boiled macaroni",
             "operation": "boil",
+            "duration" : 600,
             "ingredients": [
                 {
                     "name": "macaroni",
