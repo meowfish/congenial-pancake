@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Welcome to my super cool website BRO B)</h1>
+
+
+<p>
+  {{ my_text }}
+</p>
+
+{% for sub_item in my_list %}
+  <li>{{sub_item}}</li>
+  {% endfor %}
+{% endblock %}
+
+{% block content2 %}
+<h1> will this show up?????? <h1>
+  {%endblock%}
